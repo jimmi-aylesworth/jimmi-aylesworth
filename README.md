@@ -18,22 +18,22 @@ Hi 👋 I'm Jimmi. A passionate information security professional and technologi
 
 I explore cutting-edge security techniques and contribute to open-source projects that help make the digital world safer. My work spans red teaming, malware analysis, and developing custom tooling for security assessments.
 
-What I Do & Find Joy In
-🔍 Red Teaming & Threat Simulation
+# What I Do & Find Joy In
 
-Specializing in offensive security, adversary emulation, and advanced threat modeling.
-🛠️ Tool Development & Automation
+- 🔍 **Red Teaming & Threat Simulation**  
+  - Specializing in offensive security, adversary emulation, and advanced threat modeling.
 
-I create custom tools, scripts, and frameworks to enhance security assessments and streamline workflows.
-Building custom security tools and automation scripts
-🔐 Defensive Security & Detection Engineering
+- 🛠️ **Tool Development & Automation**  
+  - I create custom tools, scripts, and frameworks to enhance security assessments and streamline workflows.
+  - Building custom security tools and automation scripts
 
-Building resilient systems, conducting threat hunts, and improving detection & response capabilities.
-Reverse engineering, exploit development, and threat hunting
-📢 Community & Mentorship
+- 🔐 **Defensive Security & Detection Engineering**  
+  - Building resilient systems, conducting threat hunts, and improving detection & response capabilities.
+  - Reverse engineering, exploit development, and threat hunting
+  
+- 📢 **Community & Mentorship**  
+  - Sharing research, mentoring newcomers, and contributing to open-source projects in the security space.
+  - Writing technical blogs, mentoring, and speaking at conferences
 
-Sharing research, mentoring newcomers, and contributing to open-source projects in the security space.
-Writing technical blogs, mentoring, and speaking at conferences
-🌐 Open Source
-
-Contributing to and maintaining security-focused projects
+- 🌐 **Open Source**
+  - Contributing to and maintaining security-focused projects
